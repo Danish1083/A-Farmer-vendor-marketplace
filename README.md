@@ -1,8 +1,9 @@
 # A-Farmer-vendor-marketplace
-
 HOW YOU CAN MAKE THIS PROJECT RUN ON YOUR COMPUTER?
 -->Setup MySQL database via XAMPP, make Mysql+Apache run(https://youtu.be/2ydHLNnGIVI?si=xnn0YRaSQGzn130b)
+
 -->In Xampp folder->Go to Htdocs folder and paste folder named "project" here.
+
 -->Go on google and search "http://localhost/project/home.html."
 
 The Farmer-Vendor Marketplace is a website that helps farmers and vendors (people who sell things) in farming connect with each other.
