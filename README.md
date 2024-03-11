@@ -7,6 +7,8 @@ HOW YOU CAN MAKE THIS PROJECT RUN ON YOUR COMPUTER?
 
 -->Go on google and search "http://localhost/project/home.html."
 
+-->Create a database named "project" import data in it from "project.sql" file present in project folder inside htdocs of xampp folder.
+
 The Farmer-Vendor Marketplace is a website that helps farmers and vendors (people who sell things) in farming connect with each other.
 
 What does it do?
