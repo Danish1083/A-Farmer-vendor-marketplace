@@ -7,7 +7,7 @@ HOW YOU CAN MAKE THIS PROJECT RUN ON YOUR COMPUTER?
 
 -->Go on google and search "http://localhost/project/home.html."
 
-The Farmer-Vendor Marketplace is a website that helps farmers and vendors (people who sell things) in farming connect with each other.
+The Farmer-Vendor Marketplace is a website that helps farmers and vendors (people who sell things) in farming connect with each other.'\n'
 What does it do?
 For Farmers:
 Farmers can put up information about the things they grow to sell.This information gets updated on farmer portal.
