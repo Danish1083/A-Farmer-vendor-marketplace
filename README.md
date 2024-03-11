@@ -1,5 +1,6 @@
 # A-Farmer-vendor-marketplace
 HOW YOU CAN MAKE THIS PROJECT RUN ON YOUR COMPUTER?
+
 -->Setup MySQL database via XAMPP, make Mysql+Apache run(https://youtu.be/2ydHLNnGIVI?si=xnn0YRaSQGzn130b)
 
 -->In Xampp folder->Go to Htdocs folder and paste folder named "project" here.
