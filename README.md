@@ -3,7 +3,7 @@ HOW YOU CAN MAKE THIS PROJECT RUN ON YOUR COMPUTER?
 
 -->Setup MySQL database via XAMPP, make Mysql+Apache run(https://youtu.be/2ydHLNnGIVI?si=xnn0YRaSQGzn130b)
 
--->In Xampp folder->Go to Htdocs folder and paste folder named "project" here.
+-->Make a folder named "project", place all files in this folder. In Xampp folder->Go to Htdocs folder and paste "project" here.
 
 -->Go on google and search "http://localhost/project/home.html."
 
